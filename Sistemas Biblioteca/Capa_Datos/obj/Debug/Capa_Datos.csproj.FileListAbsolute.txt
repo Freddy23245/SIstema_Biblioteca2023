@@ -1,0 +1,22 @@
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\bin\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Capa_Datos\bin\Debug\Soporte.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\bin\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\bin\Debug\Soporte.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache

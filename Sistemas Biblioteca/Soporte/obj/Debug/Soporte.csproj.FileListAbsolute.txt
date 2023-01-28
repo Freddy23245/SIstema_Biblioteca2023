@@ -1,0 +1,11 @@
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Soporte\bin\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Soporte\bin\Debug\Soporte.pdb
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\proyectos_personales\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\bin\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\bin\Debug\Soporte.pdb
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.dll
+C:\Users\Cristian\Desktop\Nueva carpeta (4)\Sistemas Biblioteca\Soporte\obj\Debug\Soporte.pdb
